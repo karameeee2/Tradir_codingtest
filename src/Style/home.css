@@ -1,0 +1,9 @@
+.beerBtn {
+    display: block;
+    margin: 100px auto;
+    padding: 24px;
+    height: 100px;
+    line-height: 52px;
+    font-size: 60px;
+    border-radius: 50px;
+}
